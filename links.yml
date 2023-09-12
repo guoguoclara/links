@@ -75,7 +75,17 @@ categories:
         url: https://www.searates.com/reference/stuffing/
         description: 17TRACK is the most powerful and inclusive package tracking platform. It enables to track over 170+ postal carriers for registered mail, parcel, EMS and multiple express couriers such as DHL, Fedex, UPS, TNT. As well as many more international carriers such as GLS, ARAMEX, DPD, TOLL, etc.
         tags: Load calculator,装箱大师在线版
-
+      - title: 邮件签名美化
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://www.hubspot.com/email-signature-generator#sig-generator-anchor
+        description: Create a free email signature template with our easy-to-use generator. It works with HubSpot, Gmail, Outlook, Apple Mail, Yahoo Mail, and more.
+        tags: Free Email Signature Generator,Email Signature Template
+      - title: 邮件签名美化
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://www.hubspot.com/email-signature-generator#sig-generator-anchor
+        description: Create a free email signature template with our easy-to-use generator. It works with HubSpot, Gmail, Outlook, Apple Mail, Yahoo Mail, and more.
+        tags: Free Email Signature Generator,Email Signature Template
+      
   - category: 推荐
     hide_menu: true
     icon: linecons-star
@@ -101,10 +111,10 @@ categories:
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 程序员博客
+  - category: 外贸业务常用模板
     icon: linecons-doc
     links:
-      - title: 等你来加➕
+      - title: Quotation
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
