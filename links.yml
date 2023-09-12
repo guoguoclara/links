@@ -70,6 +70,11 @@ categories:
         url: https://www1.17track.net/en
         description: 17TRACK is the most powerful and inclusive package tracking platform. It enables to track over 170+ postal carriers for registered mail, parcel, EMS and multiple express couriers such as DHL, Fedex, UPS, TNT. As well as many more international carriers such as GLS, ARAMEX, DPD, TOLL, etc.
         tags: 运单查询
+      - title: Load calculator
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://www.searates.com/reference/stuffing/
+        description: 17TRACK is the most powerful and inclusive package tracking platform. It enables to track over 170+ postal carriers for registered mail, parcel, EMS and multiple express couriers such as DHL, Fedex, UPS, TNT. As well as many more international carriers such as GLS, ARAMEX, DPD, TOLL, etc.
+        tags: Load calculator,装箱大师在线版
 
   - category: 推荐
     hide_menu: true
