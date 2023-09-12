@@ -65,6 +65,11 @@ categories:
         url: https://www.simplyduty.com/import-calculator/
         description: Calculate import duty and taxes in the web-based calculator. It&#039;s fast and free to try and covers over 100 destinations worldwide.
         tags: import duty calculator
+      - title: 查询运单
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://www1.17track.net/en
+        description: 17TRACK is the most powerful and inclusive package tracking platform. It enables to track over 170+ postal carriers for registered mail, parcel, EMS and multiple express couriers such as DHL, Fedex, UPS, TNT. As well as many more international carriers such as GLS, ARAMEX, DPD, TOLL, etc.
+        tags: 运单查询
 
   - category: 推荐
     hide_menu: true
