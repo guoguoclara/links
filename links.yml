@@ -11,13 +11,13 @@ keywords: 外贸人常用工具大全，FOB计算器，关税计算器，每日�
 # 网址导航页面描述（可选）
 description: 一站式集齐常用外贸工具，持续更新中
 # 网址导航页面 URL（可选）
-url: https://geneasy.github.io/nav/
+url: https://guoguoclara.github.io/links/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://geneasy.github.io/nav/
+home_url: https://guoguoclara.github.io/links/
 # GitHub 链接（可选）
 github_url: https://github.com/geneasy/nav
 # 网站 about 链接（可选）
@@ -42,29 +42,29 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 常用工具
     icon: linecons-star
     links:
-      - title: DTO
+      - title: FOB计算器
         logo: https://dto.pipecraft.net/apple-touch-icon-144.png
         url: https://dto.pipecraft.net/
         description: 一个类似 Hacker News, Lobsters 的链接分享社区
         tags: 程序员,社区
-      - title: BestXTools 社区
+      - title: HS Code查询
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
         tags: 在线工具,周刊,社区
-      - title: 等你来加➕
+      - title: 汇率转换
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
+        url: https://themoneyconverter.com/
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
-      - title: Pipecraft 社区
+      - title: 进口关税查询
         logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+        url: https://www.simplyduty.com/import-calculator/
+        description: Calculate import duty and taxes in the web-based calculator. It&#039;s fast and free to try and covers over 100 destinations worldwide.
+        tags: import duty calculator
 
   - category: 推荐
     hide_menu: true
